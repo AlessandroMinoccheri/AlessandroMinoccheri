@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Alessandro Minoccheri, and I am a Software Developer and Consultant [@Flowing](https://github.com/flowingis).
+My name is Alessandro Minoccheri, and I am the Tech Lead in [@InPostIT](https://inpost.it/).
 
 Founder and cordinator of [@PUG_Romagna](https://github.com/pugromagna) Italian PHP Community.  
 
